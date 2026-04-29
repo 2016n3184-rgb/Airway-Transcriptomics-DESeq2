@@ -9,12 +9,15 @@ The analysis identifies genes differentially expressed in response to glucocorti
 
 ### 1. Differential Expression (Volcano Plot)
 Statistical overview of gene up-regulation and down-regulation.
+
 ![Volcano Plot](./volcano_plot.png.png)
 
 ### 2. Functional Enrichment (GO Dotplot)
 Identification of biological processes affected by treatment, such as inflammatory response and cell signaling.
+
 ![Pathway Enrichment](./pathway_enrichment_dotplot.png.png)
 
 ### 3. Sample Clustering (Heatmap)
 Visualizing the expression patterns of the top differentially expressed genes across samples.
+
 ![Expression Heatmap](./expression_heatmap.png.png)
